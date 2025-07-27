@@ -16,11 +16,6 @@ A machine learning-powered Flask web app that predicts whether a loan applicant 
 - **HTML** + **Bootstrap** (frontend)
 - Model trained on cleaned UCI-like loan dataset
 
-## 📷 Screenshots
 
-![Form](screenshots/form.png)  
-![Prediction](screenshots/predict.png)
-
-## 🛠️ To Run Locally
 
 
